@@ -1,2 +1,2 @@
 import re
-prin("Hello World")
+print("Hello World")
