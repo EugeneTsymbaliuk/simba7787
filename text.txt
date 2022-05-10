@@ -1,3 +1,2 @@
 Some text file!
 New changes
-Another changes
